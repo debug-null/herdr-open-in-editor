@@ -1,0 +1,9 @@
+{
+  "place": "none",
+  "title": "Open in editor",
+  "overlay": {
+    "kind": "popup",
+    "width": 300,
+    "height": 240
+  }
+}
